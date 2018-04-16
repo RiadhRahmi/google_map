@@ -1,0 +1,7 @@
+name: Google Map Module
+description: Module to Create a block showing Google Map.
+package: Custom
+type: module
+core: 8.x
+
+configure: google_map.settings

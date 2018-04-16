@@ -1,0 +1,7 @@
+google_map.settings:
+  path: '/admin/config/user-interface/google_map'
+  defaults:
+    _form: '\Drupal\google_map\Form\GoogleMapForm'
+    _title: 'Settings Form'
+  requirements:
+    _permission: 'access content'
